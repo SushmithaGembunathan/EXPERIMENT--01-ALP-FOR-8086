@@ -101,10 +101,13 @@ xor ax,bx
 mov [6060h],ax
 ret
 ```
-
-## Result :
- 
+## output :
 <img width="1920" height="1200" alt="Screenshot 2025-09-09 092944" src="https://github.com/user-attachments/assets/0439f324-d0e1-440f-8284-faeda61e91bb" />
+## Result :
+
+Thus a program on ALP for the fundamental arithmetic and logical operations is done successful.
+
+
 
 
 
